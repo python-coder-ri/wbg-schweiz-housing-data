@@ -45,3 +45,7 @@ python wbg_scraper.py
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Screenshot
+
+![WBG Schweiz Official Website](wbg-schweiz-official-website.png)
